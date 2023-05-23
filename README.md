@@ -16,6 +16,8 @@ Status]][Crates Link]
 
 # Overview
 
+This repository is a custom fork of [sigp/discv5](https://github.com/sigp/discv5) used within [ethereum/trin](https://github.com/ethereum/trin).
+
 This is a rust implementation of the [Discovery v5](https://github.com/ethereum/devp2p/blob/master/discv5/discv5.md)
 peer discovery protocol.
 
